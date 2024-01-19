@@ -1,0 +1,31 @@
+[
+  {
+    "io_name": "select_excel",
+    "display_dict": null,
+    "input_display": "请选择读取的文件："
+  },
+
+  {
+    "io_name": "select_mode",
+    "display_dict": {"0": "返回", "1": "总数据", "2": "今日开团排名", "3": "今日个人成团排名", "4": "累计个人成团排名"},
+    "input_display": "请选择模式："
+  },
+
+  {
+    "io_name": "select_date",
+    "display_dict": {"0": "返回", "1": "昨日", "2": "今日"},
+    "input_display": "请选择日期："
+  },
+
+  {
+    "io_name": "select_number",
+    "display_dict": {"0": "返回", "1": "5", "2": "10", "3": "不限制"},
+    "input_display": "请选择最多排名数量："
+  },
+
+  {
+    "io_name": "select_return",
+    "display_dict": {"1": "YES", "2": "NO"},
+    "input_display": "继续操作当前Excel文件吗？："
+  }
+]
